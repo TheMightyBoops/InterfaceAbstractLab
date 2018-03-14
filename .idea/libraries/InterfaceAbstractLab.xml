@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InterfaceAbstractLab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/InterfaceAbstractLab.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
